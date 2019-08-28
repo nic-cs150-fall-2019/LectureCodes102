@@ -1,7 +1,7 @@
 // sumoftwonums.cpp
 // Display sum of two numbers
 // Gabe de la Cruz
-// CS150 103
+// CS150 102
 #include <iostream>
 
 using namespace std;
